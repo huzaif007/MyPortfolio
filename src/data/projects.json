@@ -1,15 +1,21 @@
 [
   {
-    "title": "Signal Processing App",
-    "description": "A web app that combines Electrical Engineering concepts with web development and AI...",
+    "title": "Signal Processing App (Ongoing Project)",
+    "description": "A web app that combines Electrical Engineering concepts with web development and AI. Users can generate, visualize, and filter signals to make learning more interactive and intuitive.",
     "skills": ["React.js", "Tailwind CSS", "Chart.js", "FFT.js", "Bootstrap", "Vite", "GitHub Pages"],
     "demo": "https://huzaif007.github.io/signal-processing-app/",
     "source": "https://github.com/huzaif007/signal-processing-app"
   },
   {
     "title": "URL Shortener",
-    "description": "Created a web application to shorten long URLs...",
+    "description": "Created a web application to shorten long URLs, making them easier to share and manage.",
     "skills": ["Node.js", "Express", "MongoDB"],
+    "demo": "",
     "source": "https://github.com/huzaif007/URLShortener"
+  },
+  {
+    "title": "Portfolio Website",
+    "description": "It showcases my skills, projects, and contact information with a clean, responsive UI.",
+    "source": "https://github.com/huzaif007/MyPortfolio"
   }
 ]
