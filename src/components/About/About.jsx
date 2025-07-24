@@ -19,7 +19,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-              Specializing in creating responsive and visually appealing user interfaces using HTML, CSS, and JavaScript frameworks like React.
+                Specializing in creating responsive and visually appealing user interfaces using HTML, CSS, and JavaScript frameworks like React.
               </p>
             </div>
           </li>
@@ -28,7 +28,7 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-              Proficient in building robust server-side applications and APIs with Node.js, Express, and MongoDB.
+                Proficient in building robust server-side applications and APIs with Node.js, Express, and MongoDB.
               </p>
             </div>
           </li> */}
@@ -37,7 +37,16 @@ export const About = () => {
             <div className={styles.aboutItemText}>
               <h3>DSA</h3>
               <p>
-                Solved more than 100 questions on Data Structures and Algorithms so far.
+                Solved more than 100 questions on Data Structures and Algorithms so far.  
+                Check out my{" "}
+                <a
+                  href="https://leetcode.com/u/huzaif7999/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className={styles.link}
+                >
+                  LeetCode Profile
+                </a>.
               </p>
             </div>
           </li>
