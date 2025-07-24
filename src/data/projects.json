@@ -1,26 +1,16 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Signal Processing App",
+    "description": "A web app that combines Electrical Engineering concepts with web development and AI. Users can generate, visualize, and filter signals to make learning more interactive and intuitive.",
+    "techStack": ["React.js", "Tailwind CSS", "Chart.js", "FFT.js", "Bootstrap", "Vite", "GitHub Pages"],
+    "link": "https://your-signal-app-link.com",          // Replace with your actual live link
+    "github": "https://github.com/yourusername/signal-app"  // Replace with your GitHub repo link
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "URL Shortener",
+    "description": "Created a web application to shorten long URLs, making them easier to share and manage.",
+    "techStack": ["Node.js", "Express", "MongoDB"],
+    "link": "",  // Leave blank if no live link
+    "github": "https://github.com/yourusername/url-shortener"  // Replace with your repo
   }
 ]
