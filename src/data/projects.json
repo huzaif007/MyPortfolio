@@ -16,6 +16,8 @@
   {
     "title": "Portfolio Website",
     "description": "It showcases my skills, projects, and contact information with a clean, responsive UI.",
+    "skills": [],
+    "demo": "",
     "source": "https://github.com/huzaif007/MyPortfolio"
   }
 ]
