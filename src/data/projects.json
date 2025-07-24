@@ -10,7 +10,6 @@
     "title": "URL Shortener",
     "description": "Created a web application to shorten long URLs...",
     "skills": ["Node.js", "Express", "MongoDB"],
-    "demo": "",
     "source": "https://github.com/huzaif007/URLShortener"
   }
 ]
