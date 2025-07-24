@@ -23,7 +23,7 @@ export const About = () => {
               </p>
             </div>
           </li>
-          <li className={styles.aboutItem}>
+{/*           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
@@ -31,13 +31,13 @@ export const About = () => {
               Proficient in building robust server-side applications and APIs with Node.js, Express, and MongoDB.
               </p>
             </div>
-          </li>
+          </li> */}
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/uilcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <h3>DSA</h3>
               <p>
-                Working on my problem solving skills...
+                Solved more than 100 questions on Data Structures and Algorithms so far.
               </p>
             </div>
           </li>
