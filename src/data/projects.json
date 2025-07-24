@@ -1,16 +1,16 @@
 [
   {
     "title": "Signal Processing App",
-    "description": "A web app that combines Electrical Engineering concepts with web development and AI. Users can generate, visualize, and filter signals to make learning more interactive and intuitive.",
-    "techStack": ["React.js", "Tailwind CSS", "Chart.js", "FFT.js", "Bootstrap", "Vite", "GitHub Pages"],
-    "link": "https://huzaif007.github.io/signal-processing-app/",
-    "github": "https://github.com/huzaif007/signal-processing-app"
+    "description": "A web app that combines Electrical Engineering concepts with web development and AI...",
+    "skills": ["React.js", "Tailwind CSS", "Chart.js", "FFT.js", "Bootstrap", "Vite", "GitHub Pages"],
+    "demo": "https://huzaif007.github.io/signal-processing-app/",
+    "source": "https://github.com/huzaif007/signal-processing-app"
   },
   {
     "title": "URL Shortener",
-    "description": "Created a web application to shorten long URLs, making them easier to share and manage.",
-    "techStack": ["Node.js", "Express", "MongoDB"],
-    "link": "",
-    "github": "https://github.com/huzaif007/URLShortener"
+    "description": "Created a web application to shorten long URLs...",
+    "skills": ["Node.js", "Express", "MongoDB"],
+    "demo": "",
+    "source": "https://github.com/huzaif007/URLShortener"
   }
 ]
