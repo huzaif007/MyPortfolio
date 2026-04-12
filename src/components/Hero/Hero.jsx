@@ -9,10 +9,12 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Huzaif</h1>
         <p className={styles.description}>
-        Crafting Dynamic Front-End Interfaces and Mastering Data Structures for Optimal Performance
+          Currently working with a US-based startup, Last App Standing, where I am building cross-platform applications with integrated LLM technologies. 
+          <br /> 
+          As a Software Developer, I focus on creating intuitive, high-performance web and mobile apps, leveraging my experience in C++ and JavaScript to optimize algorithms and lead the development of AI-driven solutions.
         </p>
         <a href="mailto:huzaif7999@gmail.com" className={styles.contactBtn}>
-          Contact Me
+          Mail
         </a>
       </div>
       <img

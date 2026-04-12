@@ -1,5 +1,9 @@
 [
   {
+    "title": "React Native",
+    "imageSrc": "skills/reactnative.png"
+  },
+  {
     "title": "C++",
     "imageSrc": "skills/cpp.png"
   },

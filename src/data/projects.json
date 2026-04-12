@@ -1,5 +1,12 @@
 [
   {
+    "title": "Smart Debt Simplifier",
+    "description": "Built a React.js visual tool leveraging a greedy algorithm to optimize group debt settlements, reducing redundant transactions from O(N2) to O(N-1).",
+    "skills": ["Javascript", "React"],
+    "demo": "https://huzaif007.github.io/smart-debt-simplifier/",
+    "source": "https://github.com/huzaif007/smart-debt-simplifier/"
+  },
+  {
     "title": "Signal Processing App (Ongoing Project)",
     "description": "A web app that combines Electrical Engineering concepts with web development and AI. Users can generate, visualize, and filter signals to make learning more interactive and intuitive.",
     "skills": ["React.js", "Tailwind CSS", "Chart.js", "FFT.js", "Bootstrap", "Vite", "GitHub Pages"],

@@ -17,27 +17,23 @@ export const About = () => {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="Cursor icon" />
             <div className={styles.aboutItemText}>
-              <h3>Frontend Developer</h3>
-              <p>
-                Specializing in creating responsive and visually appealing user interfaces using HTML, CSS, and JavaScript frameworks like React.
+              <h2>LAST APP STANDING, WYOMING USA</h2>
+              <h3>Software Development Intern</h3>
+              <br />
+              <p>Developing a cross-platform mobile application (iOS & Android) focused on automated dietary and calorie tracking. 
+                <br />
+Integrating Large Language Models (LLMs) and image recognition, allowing users to instantly extract accurate nutritional information simply by taking a photo of their food. 
+    <br />
+Designing an intuitive user interface to streamline daily meal logging and deliver real-time caloric data.
               </p>
             </div>
           </li>
-{/*           <li className={styles.aboutItem}>
-            <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
-            <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
-              <p>
-                Proficient in building robust server-side applications and APIs with Node.js, Express, and MongoDB.
-              </p>
-            </div>
-          </li> */}
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/uilcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
               <h3>DSA</h3>
               <p>
-                Solved more than 100 questions on Data Structures and Algorithms so far.  
+                Solved more than 150 questions on Data Structures and Algorithms so far.  
                 Check out my{" "}
                 <a
                   href="https://leetcode.com/u/huzaif7999/"
