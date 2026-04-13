@@ -20,7 +20,7 @@ export const About = () => {
               <h2>LAST APP STANDING, WYOMING USA</h2>
               <h3>Software Development Intern (Remote)</h3>
               <br />
-              <p>Developing a cross-plat`form mobile application (iOS & Android) focused on automated dietary and calorie tracking. 
+              <p>Developing a cross-platform mobile application (iOS & Android) focused on automated dietary and calorie tracking. 
                 <br />
 Integrating Large Language Models (LLMs) and image recognition, allowing users to instantly extract accurate nutritional information simply by taking a photo of their food. 
     <br />
